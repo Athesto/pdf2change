@@ -2,6 +2,6 @@
 PDF TOC editor for pdftk
 
 # Installation
-## DEBIAN
+## Debian
 `sudo apt install pdftk`
 
